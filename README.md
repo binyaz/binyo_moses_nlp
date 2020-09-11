@@ -8,15 +8,15 @@ Packages used include
     
 packages for EDA
 
-    - numpy
-    - pandas
-    - regex
-    - string
+   - numpy
+   - pandas
+   - regex
+   - string
 
 packages for visualizations
 
-    - matplotlib
-    - seaborn
+   - matplotlib
+   - seaborn
 
 packages for preprocessing and modeling
 
