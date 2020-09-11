@@ -47,6 +47,16 @@ packages for preprocessing and modeling
 
 ![top20mostcommon](/images/top20mostcommon.png)
 
+![sent0](/images/sent0.png)
+
+![sent3](/images/sent3.png)
+
+![sent-3](/images/sent-3.png)
+
+![trigram3](/images/trigram3.png)
+
+![trigram-2](/images/trigram-2.png)
+
 # Hypothesis Testing
 
 # Models
