@@ -1,8 +1,8 @@
 # binyo_moses_nlp
 
-Sentiment Classification for Amazon tweets
+# Sentiment Classification for Amazon tweets
 
-Determine the sentiment of a tweet using nlp methods
+## Determine the sentiment of a tweet using nlp methods
 
 Packages used include
     
