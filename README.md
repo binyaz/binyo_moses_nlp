@@ -1,5 +1,3 @@
-# binyo_moses_nlp
-
 # Sentiment Classification for Amazon tweets
 
 Our goal for this project is to apply Natural Language Processing techniques on a collection of tweets centered around Amazon Web Services. In doing so, one would be able to classify the sentiment of such tweets based on linguistic elements in order to gain various business insights such as main competitors, favorable features, and potential employees in the field.
