@@ -45,13 +45,13 @@ packages for preprocessing and modeling
    
 # EDA
 
-![top20mostcommon](/images/top20mostcommon.png)
-
 ![sent0](/images/sent0.png)
 
 ![sent3](/images/sent3.png)
 
 ![sent-3](/images/sent-3.png)
+
+![top20tri](/images/top20trigram.png)
 
 ![trigram3](/images/trigramsent3.png)
 
