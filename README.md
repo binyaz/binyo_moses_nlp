@@ -68,14 +68,14 @@ Chi-squared Test
 Test 1
 - Null Hypothesis: There is no association between whether it is the weekend or not, and tweet sentiment
 - Alternative Hypothesis: There is an association between whether it is the weekend or not, and tweet sentiment
-pval: 3.430597076590461e-05
-Result: Reject the null. There is an association.
+- pval: 3.430597076590461e-05
+- Result: Reject the null. There is an association.
 
 Test 2
 - Null Hypothesis: There is no association between whether a tweet is retweeted, and tweet sentiment
 - Alternative Hypothesis: There is an association between whether a tweet is retweeted, and tweet sentiment
-pval: 7.284707252228614e-10
-Result: Reject the null. There is an association.
+- pval: 7.284707252228614e-10
+- Result: Reject the null. There is an association.
 
 # Models
 
