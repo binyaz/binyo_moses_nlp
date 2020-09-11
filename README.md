@@ -8,6 +8,10 @@ Our goal for this project is to apply Natural Language Processing techniques on 
 
 Data was collected from https://data.world/jacobfacer/twitter/workspace/file?filename=Twitter%2Bdata%2Bin%2Bsheets.xlsx, with very little contextual information provided with the data.
 
+twitter.ipynb is the NLP EDA code
+twitterdata.xlsx is the dataset
+Untitled.ipynb is the modeling code
+
 ## Determine the sentiment of a tweet using nlp methods
 
 Process:
@@ -40,6 +44,8 @@ packages for preprocessing and modeling
    - gensim
    
 # EDA
+
+![top20mostcommon](/images/top20mostcommon.png)
 
 # Hypothesis Testing
 
