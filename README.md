@@ -79,4 +79,21 @@ Test 2
 
 # Models
 
+we ran multiple models experimenting with different methods for sentiment detection 
+
+sentiment detection methods include 
+ - bag or words
+ - tf idf
+
+models ran include
+ - Logistic Regression
+ - MultinomialNB
+ - Random Forest Classification
+ - SVC
+ - XGBClassifier
+ 
 # Conclusion
+
+our best preforming models acheived a 95 percent accuracy concluding that these models can be used to determine tweet sentiment. However, the methods used to prepare the data make it difficult to understand how the model determins a prediction. This can perhaps be acheived with word embedding preprocessing steps such as Word2Vec from gensim.
+
+p.s. attempts were made to incorporate word2vec methods however these were not acheived due to time constraints
