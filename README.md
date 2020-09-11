@@ -45,11 +45,15 @@ packages for preprocessing and modeling
    
 # EDA
 
+We began by graphing the top 20 most frequent words after processing the dataset, and got results that were relatively vague, yet they still gave an idea as to the sentiments of the tweets. For example, job is the top word for sentiment 0, and some other notable words being hiring, devops and blog. Similarly sentiment 3 had positive words such as nice, great, and high, while sentiment -3 had relatively negative words like suck, bad and hate. But what do these really mean?
+
 ![sent0](/images/sent0.png)
 
 ![sent3](/images/sent3.png)
 
 ![sent-3](/images/sent-3.png)
+
+A lot more insight could be had when looking at the top 20 most frequent bigrams and trigrams for the respective sentiment values. As shown in the top 20 charts listed, it appears that sentiment 0 typically is just job offers, blog posts and podcast discussions. This is very true when manually sifting through each tweet in the dataset when filtered by sentiment level. Likewise, sentiment 3 have people gushing in their tweets about the high performance that AWS provides as well as celebrating its 10 year birthday, while sentiment -2 have people complaining about service outages, as well as a possible insight about the price war between AWS and Microsoft Azure.
 
 ![top20tri](/images/top20trigram.png)
 
