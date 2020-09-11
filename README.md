@@ -53,9 +53,9 @@ packages for preprocessing and modeling
 
 ![sent-3](/images/sent-3.png)
 
-![trigram3](/images/trigram3.png)
+![trigram3](/images/trigramsent3.png)
 
-![trigram-2](/images/trigram-2.png)
+![trigram-2](/images/trigramsent-2.png)
 
 # Hypothesis Testing
 
